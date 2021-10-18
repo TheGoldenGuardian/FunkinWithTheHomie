@@ -1,0 +1,8 @@
+0: Default
+1: Godawful
+2: Source Ragdoll (Soft)
+3: Source Ragdoll (Hard)
+4: Coughing
+5: Coughing (BTEN)
+6: Vine Boom
+7: Tourettes Guy

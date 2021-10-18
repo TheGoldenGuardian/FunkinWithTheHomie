@@ -307,6 +307,31 @@
     ]
   },
    {
+    "name": "windwos xd",
+    "songs": [
+    {
+      "name": "Daisies",
+      "character": "ascii",
+      "week": 1
+    },
+    {
+      "name": "Error",
+      "character": "ascii",
+        "week" : 1
+	},
+    {
+      "name": "Hard-Drive",
+      "character": "ascii",
+        "week" : 1
+	},
+    {
+      "name": "Spam",
+      "character": "ascii",
+        "week" : 1
+	}
+   ]
+   },
+   {
     "name": "Annie Mod",
     "songs": [
     {

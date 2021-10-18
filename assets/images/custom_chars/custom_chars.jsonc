@@ -364,4 +364,9 @@
     "icons": [0,1,1,0],
     "colors": ["#A200CA"] 
   },
+  "ascii": {
+    "like": "ascii",
+    "icons": [0,1,1,0],
+    "colors": ["#99FF7D"]
+  },
 }

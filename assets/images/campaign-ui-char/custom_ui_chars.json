@@ -32,7 +32,19 @@
     "defaultGraphics": true
   },
   "tankman": {
-    "like":"tankman",
+    "like": "tankman",
     "defaultGraphics": true
-  }
+  },
+  "annie": {
+    "like": "annie",
+    "defaultGraphics": false
+  },
+  "garcello": {
+    "like": "garcello",
+    "defaultGraphics": false
+  },
+  "ascii": {
+    "like": "ascii",
+    "defaultGraphics": false
+  },
 }

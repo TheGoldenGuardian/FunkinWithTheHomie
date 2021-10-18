@@ -1,0 +1,489 @@
+[
+  {
+    "name": "Base Game",
+    "songs": [
+      {"name":"Tutorial",
+      "character":"gf",
+      "week": 0},
+      {
+        "name": "Bopeebo",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Fresh",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Dadbattle",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Spookeez",
+        "character": "spooky",
+        "week": 2
+      },
+      {
+        "name": "South",
+        "character": "spooky",
+        "week": 2
+      },
+      {
+        "name": "Monster",
+        "character": "monster",
+        "week": 2
+      },
+      {
+        "name": "Pico",
+        "character": "pico",
+        "week": 3
+      },
+      {
+        "name": "Philly",
+        "character": "pico",
+        "week": 3
+      },{
+        "name": "Blammed",
+        "character": "pico",
+        "week": 3
+      },
+      {
+        "name": "Satin-Panties",
+        "character": "mom",
+        "week": 4
+      },
+      {
+        "name": "High",
+        "character": "mom",
+        "week": 4
+      },{
+        "name": "Milf",
+        "character": "mom",
+        "week": 4
+      },
+      {
+        "name": "Cocoa",
+        "character": "parents-christmas",
+        "week": 5
+      },
+      {
+        "name": "Eggnog",
+        "character": "parents-christmas",
+        "week": 5
+      },
+      {
+        "name": "Winter-Horrorland",
+        "character": "monster-christmas",
+        "week": 5
+      },
+      {
+        "name": "Senpai",
+        "character": "senpai",
+        "week": 6
+      },
+      {
+        "name": "Roses",
+        "character": "senpai-angry",
+        "week": 6
+      },
+      {
+        "name": "Thorns",
+        "character": "spirit",
+        "week": 6
+      },
+      {
+        "name": "Ugh",
+        "character": "tankman",
+        "week": 7
+      },
+      {
+        "name": "Guns",
+        "character": "tankman",
+        "week": 7
+      },
+      {
+        "name": "Stress",
+        "character": "tankman",
+        "week": 7
+      }
+    ]
+  },
+   {
+    "name": "Random Shit",
+    "songs": [
+    {
+      "name": "Gartic-Pummel",
+      "character": "pico",
+      "week": 1
+    },
+    {
+      "name": "Pico-Canyon",
+      "character": "pico",
+        "week" : 1
+	},
+    {
+      "name": "Munitions",
+      "character": "abigail-guitar",
+        "week" : 1
+	},
+    {
+      "name": "TTFAF",
+      "character": "bf-guitar",
+        "week" : 1
+	},
+    {
+      "name": "TTBAB",
+      "character": "whitty-crazy",
+        "week" : 1
+	},
+    {
+      "name": "Test",
+      "character": "face",
+      "week": 6,
+    },
+    {
+      "name": "Refresher",
+      "character": "carlos",
+        "week" : 1
+	},
+    {
+      "name": "Senpai's-True-Form",
+      "character": "senpai-angry",
+        "week" : 1
+	},
+    {
+      "name": "Brotherhood",
+      "character": "castle-crashers",
+        "week" : 1
+	},
+    {
+      "name": "Future",
+      "character": "spooky",
+        "week" : 1
+	},
+    {
+      "name": "Dragon",
+      "character": "mom",
+        "week" : 1
+	},
+    {
+      "name": "Shiver-UpSide",
+      "character": "spooky",
+        "week" : 1
+	},
+    {
+      "name": "Fresh-(Matt$-Remix)",
+      "character": "dad",
+        "week" : 1
+	},
+    {
+      "name": "South-(Matt$-Remix)",
+      "character": "spooky",
+        "week" : 1
+	},
+    {
+      "name": "Blammed-(Matt$-Remix)",
+      "character": "pico",
+        "week" : 1
+	},
+    {
+      "name": "Lo-Fight-BSide",
+      "character": "whitty",
+        "week" : 1
+	},
+    {
+      "name": "Overhead-BSide",
+      "character": "whitty",
+        "week" : 1
+	},
+    {
+      "name": "Breakout",
+      "character": "dad",
+        "week" : 1
+	},
+    {
+      "name": "MTC",
+      "character": "mom-car",
+        "week" : 1
+	},
+    {
+      "name": "Games",
+      "character": "mom-car",
+        "week" : 1
+	},
+    {
+      "name": "Jovial",
+      "character": "mom-car",
+        "week" : 1
+	},
+    {
+      "name": "Kaboom",
+      "character": "demoman",
+        "week" : 1
+	},
+   ]
+   },
+  {
+    "name": "FUCKING NEO LES GOOOO",
+    "songs": [
+      {"name":"Tutorial-Neo",
+      "character":"gf-neo",
+      "week": 0},
+      {
+        "name": "Bopeebo-Neo",
+        "character": "dad-neo",
+        "week": 1
+      },
+      {
+        "name": "Fresh-Neo",
+        "character": "dad-neo",
+        "week": 1
+      },
+      {
+        "name": "Dadbattle-Neo",
+        "character": "dad-neo",
+        "week": 1
+      },
+      {
+        "name": "Spookeez-Neo",
+        "character": "spooky-neo",
+        "week": 2
+      },
+      {
+        "name": "South-Neo",
+        "character": "spooky-neo",
+        "week": 2
+      },
+      {
+        "name": "Illusion",
+        "character": "monster-neo",
+        "week": 2
+      },
+      {
+        "name": "Pico-Neo",
+        "character": "pico-neo",
+        "week": 3
+      },
+      {
+        "name": "Philly-Neo",
+        "character": "pico-neo",
+        "week": 3
+      },{
+        "name": "Blammed-Neo",
+        "character": "pico-neo",
+        "week": 3
+      },
+      {
+        "name": "Satin-Panties-Neo",
+        "character": "mom-neo",
+        "week": 4
+      },
+      {
+        "name": "High-Neo",
+        "character": "mom-neo",
+        "week": 4
+      },{
+        "name": "Milf-Neo",
+        "character": "mom-neo",
+        "week": 4
+      },
+      {
+        "name": "Cocoa-Neo",
+        "character": "parents-neo",
+        "week": 5
+      },
+      {
+        "name": "Eggnog-Neo",
+        "character": "parents-neo",
+        "week": 5
+      },
+      {
+        "name": "Hallucination",
+        "character": "monster-neo",
+        "week": 5
+      }
+    ]
+  },
+   {
+    "name": "Annie Mod",
+    "songs": [
+    {
+      "name": "Good-Enough",
+      "character": "annie",
+      "week": 1
+    },
+    {
+      "name": "Lover",
+      "character": "annie",
+        "week" : 1
+	},
+    {
+      "name": "Tug-of-War",
+      "character": "annie",
+        "week" : 1
+	},
+    {
+      "name": "Animal",
+      "character": "annie-big",
+        "week" : 1
+	}
+   ]
+   },
+   {
+    "name": "Devourer of Gods",
+    "songs": [
+    {
+      "name": "Servants-Of-The-Scourge",
+      "character": "dog",
+      "week": 1
+    },
+    {
+      "name": "Scourge-Of-The-Universe",
+      "character": "dog",
+        "week" : 1
+	},
+    {
+      "name": "Universal-Collapse",
+      "character": "dog-angry",
+        "week" : 1
+	}
+   ]
+   },
+   {
+    "name": "Smoke 'Em Out Struggle",
+    "songs": [
+    {
+      "name": "Headache",
+      "character": "garcello",
+      "week": 1
+    },
+    {
+      "name": "Nerves",
+      "character": "garcellotired",
+        "week" : 1
+	},
+    {
+      "name": "Release",
+      "character": "garcellodead",
+        "week" : 1
+	},
+    {
+      "name": "Fading",
+      "character": "garcelloghosty",
+        "week" : 1
+	},
+    {
+      "name": "Headache-Neo",
+      "character": "garcelloneo",
+      "week": 1
+    },
+    {
+      "name": "Nerves-Neo",
+      "character": "garcellotiredneo",
+        "week" : 1
+	},
+    {
+      "name": "Release-Neo",
+      "character": "garcellodeadneo",
+        "week" : 1
+	},
+    {
+      "name": "Fading-Neo",
+      "character": "garcelloghostyneo",
+        "week" : 1
+	},
+    {
+      "name": "Requiem",
+      "character": "garcellodeadblue",
+        "week" : 1
+	}
+   ]
+   },
+   {
+    "name": "brass monkey, that funky monkey",
+    "songs": [
+    {
+      "name": "Chimps",
+      "character": "monkey",
+      "week": 1
+    },
+    {
+      "name": "Hoo-Hah",
+      "character": "monkey",
+        "week" : 1
+	},
+    {
+      "name": "Bonfire-Bash",
+      "character": "monkey",
+        "week" : 1
+	}
+   ]
+   },
+   {
+    "name": "raggy",
+    "songs": [
+    {
+      "name": "Where-Are-You",
+      "character": "shaggy",
+      "week": 1
+    },
+    {
+      "name": "Eruption",
+      "character": "shaggy",
+      "week": 1
+    },
+    {
+      "name": "Kaio-Ken",
+      "character": "sshaggy",
+      "week": 1
+    },
+    {
+      "name": "Whats-New",
+      "character": "shaggy",
+      "week": 1
+    },
+    {
+      "name": "Blast",
+      "character": "sshaggy",
+      "week": 1
+    },
+    {
+      "name": "Super-Saiyan",
+      "character": "sshaggy",
+      "week": 1
+    },
+    {
+      "name": "GOD-EATER",
+      "character": "pshaggy",
+      "week": 1
+    },
+    {
+      "name": "Soothing-Power",
+      "character": "rshaggy",
+      "week": 1
+    },
+    {
+      "name": "Thunderstorm",
+      "character": "rshaggy",
+        "week" : 1
+	},
+    {
+      "name": "Dissasembler",
+      "character": "rshaggy",
+        "week" : 1
+	},
+    {
+      "name": "Astral-Calamity",
+      "character": "wbshaggy",
+        "week" : 1
+	},
+    {
+      "name": "Talladega",
+      "character": "zshaggy",
+        "week" : 1
+	}
+   ]
+   },
+]

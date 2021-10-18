@@ -1,0 +1,367 @@
+{
+  "template": {
+    "like": "bf",
+    "icons": [0,1,24],
+    "colors": ["#149DFF"]
+  },
+  "bf": {
+    "like": "bf",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"]
+  },
+  "bf-guitar": {
+    "like": "bf-guitar",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"]
+  },
+  "bf-car": {
+    "like": "bf-car",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"]
+  },
+  "bf-christmas": {
+    "like": "bf-car",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"]
+  },
+  "bf-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#149DFF"]
+  },
+  "bulb-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#F5E642"]
+  },
+  "dad": {
+    "like": "dad",
+    "icons": [0,1,2,3],
+    "colors": ["#A200CA"] 
+  },
+  "gf-car": {
+    "like": "gf-car",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"]
+  },
+  "gf-pixel": {
+    "like": "gf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#EE19D9"]
+  },
+  "gf-christmas": {
+    "like": "gf",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"]
+  },
+  "gf": {
+    "like": "gf",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"]
+  },
+  "gf-nobody": {
+    "like": "gf",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"]
+  },
+  "templateMonster": {
+    "like": "monster",
+    "icons": [0,1,2,3],
+    "colors": ["#F2D046"]
+  },
+  "monster": {
+    "like": "newmonster",
+    "icons": [0,1,2],
+    "colors": ["#F2D046"]
+  },
+  "monster-christmas": {
+    "like": "monster-christmas",
+    "icons": [0,1,2],
+    "colors": ["#F2D046"]
+  },
+  "parents-christmas": {
+    "like": "parents",
+    "icons": [0,1,2,3],
+    "colors": ["#A200CA", "#FF95C5"]
+  },
+  "pico": {
+    "like": "pico",
+    "icons": [0,1,2,3],
+    "colors": ["#99FF7D"]
+  },
+  "senpai-angry": {
+    "like": "senpai-angry",
+    "icons": [0,1,2,3],
+    "colors": ["#BC7333"]
+  },
+  "senpai": {
+    "like": "senpai",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"]
+  },
+  "spirit": {
+    "like": "spirit",
+    "icons": [0,1,2],
+    "colors": ["#E77474"]
+  },
+  "spooky": {
+    "like": "spooky",
+    "icons": [0,1,2,3],
+    "colors": ["#FD9013","#C3C3C3"]
+  },
+  "mom": {
+    "like": "mom",
+    "icons": [0,1,2,3],
+    "colors": ["#FF95C5"]
+  },
+  "mom-car": {
+    "like": "mom-car",
+    "icons": [0,1,2,3],
+    "colors": ["#FF95C5"]
+  },
+  "templateSenpai-hd": {
+    "like": "senpai-hd",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"]
+  },
+  "templateSenpaiAngry-hd": {
+    "like": "senpai-angry-hd",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"]
+  },
+  "templateSpirit-hd": {
+    "like": "spirit-hd",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"]
+  },
+  "tankman": {
+    "like": "tankman",
+    "icons": [0,1,2,3],
+    "colors": ["#F9B03A"]
+  },
+  "gf-tankmen": {
+    "like": "gf-tankmen",
+    "icons": [0,0,1],
+    "colors": ["#EE19D9"]
+  },
+  "pico-speaker": {
+    "like": "pico-speaker",
+    "icons": [0,1,2,3],
+    "colors": ["#99FF7D"]
+  },
+  "bf-holding-gf": {
+    "like": "bf-holding-gf",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF","#EE19D9"]
+  },
+  "abigail-guitar": {
+    "like": "abigail-guitar",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "annie": {
+    "like": "annie",
+    "icons": [0,1,1,0],
+    "colors": ["#99FF7D"]
+  },
+  "annie-big": {
+    "like": "monster-christmas",
+    "icons": [0,1,1],
+    "colors": ["#F2D046"]
+  },
+  "dog": {
+    "like": "dog",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "dog-angry": {
+    "like": "dog",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "carlos": {
+    "like": "carlos",
+    "icons": [0,1,1,0],
+    "colors": ["#FF95C5"]
+  },
+  "bf-boogie": {
+    "like": "bf-car",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"]
+  },
+  "castle-crashers": {
+    "like": "castle-crashers",
+    "icons": [0,1,1,0],
+    "colors": ["#99FF7D"]
+  },
+  "whitty": {
+    "like": "dad",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "whitty-crazy": {
+    "like": "whitty-crazy",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "brother": {
+    "like": "whitty",
+    "icons": [0,1,2,3],
+    "colors": ["#A200CA"] 
+  },
+  "whitty-fs": {
+    "like": "bf",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "whitty-fs-crazy": {
+    "like": "bf",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcello": {
+    "like": "garcello",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcellotired": {
+    "like": "garcellotired",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcellodead": {
+    "like": "garcellodead",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcelloghosty": {
+    "like": "garcelloghosty",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcellodeadblue": {
+    "like": "garcellodead",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcelloneo": {
+    "like": "garcello",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcellotiredneo": {
+    "like": "garcellotired",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcellodeadneo": {
+    "like": "garcellodead",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "garcelloghostyneo": {
+    "like": "garcelloghosty",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "monkey": {
+    "like": "monkey",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "demoman": {
+    "like": "demoman",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "bf-neo": {
+    "like": "bf-neo",
+    "icons": [0,1,1,0],
+    "colors": ["#149DFF"]
+  },
+  "bf-neo-car": {
+    "like": "bf-neo-car",
+    "icons": [0,1,1,0],
+    "colors": ["#149DFF"]
+  },
+  "bf-neo-scared": {
+    "like": "bf-neo-scared",
+    "icons": [0,1,1,0],
+    "colors": ["#149DFF"]
+  },
+  "gf-neo": {
+    "like": "gf",
+    "icons": [0,0,0,0],
+    "colors": ["#EE19D9"]
+  },
+  "gf-neo-car": {
+    "like": "gf-car",
+    "icons": [0,0,0,0],
+    "colors": ["#EE19D9"]
+  },
+  "dad-neo": {
+    "like": "dad-neo",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "spooky-neo": {
+    "like": "spooky-neo",
+    "icons": [0,1,1,0],
+    "colors": ["#FD9013","#C3C3C3"]
+  },
+  "pico-neo": {
+    "like": "pico-neo",
+    "icons": [0,1,1,0],
+    "colors": ["#99FF7D"]
+  },
+  "mom-neo": {
+    "like": "mom-car",
+    "icons": [0,1,1,0],
+    "colors": ["#FF95C5"]
+  },
+  "parents-neo": {
+    "like": "parents",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA", "#FF95C5"]
+  },
+  "parents-creepy": {
+    "like": "parents",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA", "#FF95C5"]
+  },
+  "monster-neo": {
+    "like": "monster-neo",
+    "icons": [0,1,1,0],
+    "colors": ["#F2D046"]
+  },
+  "shaggy": {
+    "like": "shaggy",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "sshaggy": {
+    "like": "sshaggy",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "pshaggy": {
+    "like": "pshaggy",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "rshaggy": {
+    "like": "rshaggy",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "wbshaggy": {
+    "like": "wbshaggy",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+  "zshaggy": {
+    "like": "zshaggy",
+    "icons": [0,1,1,0],
+    "colors": ["#A200CA"] 
+  },
+}

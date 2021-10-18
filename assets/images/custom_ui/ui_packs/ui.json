@@ -1,0 +1,20 @@
+{
+    "normal": {
+        "isPixel": false,
+        "builtInJudgement": false,
+        //uses is the folder it actually goes into :blush:
+        // we use this to make judgements and shit : )
+        // this also applies to judgements
+        "uses": "normal"
+    },
+    "neo": {
+        "isPixel": false,
+        "builtInJudgement": true,
+        "uses": "neo"
+    },
+    "pixel": {
+        "isPixel": true,
+        "builtInJudgement": false,
+        "uses": "normal"
+    }
+}

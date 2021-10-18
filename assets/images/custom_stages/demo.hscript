@@ -1,0 +1,72 @@
+function start(song) {
+    var bg = new FlxSprite(-343.15, -295.45).loadGraphic(hscriptPath + 'dmbg.png');
+    bg.scrollFactor.set(0.9, 0.9);
+    bg.antialiasing = true;
+    addSprite(bg, BEHIND_ALL);
+    setDefaultZoom(0.8);
+	
+	boyfriend.x = 900;
+	boyfriend.y -= 112.55;
+    getHaxeActor('bf').followCamX -= 100;
+	dad.x -= 40.3;
+	dad.y -= 64.2;
+}
+
+function beatHit(beat)
+{	
+	if (curBeat % 4 == 0)
+	{
+		FlxG.camera.zoom -= 0.015;
+		camHUD.zoom -= 0.03;
+	}
+	
+	if(curBeat < 388){
+		FlxG.camera.zoom += 0.025;
+		camHUD.zoom += 0.02;
+		if (curBeat % 2 == 0)
+		{
+			camHUD.angle = 0.5;
+			FlxTween.tween(camHUD, {angle: 0}, 0.325, {ease:FlxEase.easeOut});
+		}else{
+			camHUD.angle = -0.5;
+			FlxTween.tween(camHUD, {angle: 0}, 0.325, {ease:FlxEase.easeOut});
+		}
+	}
+}
+
+function update(elapsed)
+{
+}
+
+function stepHit(step)
+{
+	if(curStep ==  264 || curStep ==  268 || curStep ==  296 || curStep ==  300 || curStep ==  328 || curStep ==  332 || curStep ==  360 || curStep ==  364 || curStep ==  392 || curStep ==  396 || curStep ==  424 || curStep ==  428 || curStep ==  456 || curStep ==  460 || curStep ==  488 || curStep ==  492 || curStep ==  1032 || curStep ==  1036 || curStep ==  1064 || curStep ==  1068 || curStep ==  1096 || curStep ==  1100 || curStep ==  1128 || curStep ==  1132 || curStep ==  1160 || curStep ==  1164 || curStep ==  1192 || curStep ==  1196 || curStep ==  1224 || curStep ==  1228 || curStep ==  1256 || curStep ==  1260 || curStep ==  1288 || curStep ==  1292 || curStep ==  1320 || curStep ==  1324 || curStep ==  1352 || curStep ==  1356 || curStep ==  1384 || curStep ==  1388 || curStep ==  1416 || curStep ==  1420 || curStep ==  1448 || curStep ==  1452 || curStep ==  1480 || curStep ==  1484 || curStep ==  1512 || curStep ==  1516){
+		FlxG.camera.zoom += 0.04;
+		camHUD.zoom += 0.01;
+	}
+}
+
+function playerTwoTurn()
+{
+}
+
+function playerTwoMiss()
+{
+}
+
+function playerTwoSing()
+{
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}
+

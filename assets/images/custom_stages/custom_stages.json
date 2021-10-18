@@ -1,0 +1,20 @@
+{
+    "limo": "limo",
+    "mall": "mall",
+    "mallEvil": "mallEvil",
+    "philly": "philly",
+    "school": "school",
+    "schoolEvil": "schoolEvil",
+    "spooky": "spooky",
+    "stage": "stage",
+    "snowy": "stage",
+    "tank": "tank",
+	"annie": "philly",
+	"annieSpooky": "mallEvil",
+	"terraria": "philly",
+	"darkstage": "stageDistant",
+	"garAlley": "garAlley",
+	"garAlleyDead": "garAlleyDead",
+	"garAlleyDip": "garAlleyDip",
+	"demo": "demo"
+}

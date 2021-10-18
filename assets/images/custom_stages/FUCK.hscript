@@ -1,0 +1,82 @@
+function start(song) {
+    var bg = new FlxSprite(-343.15, -295.45).loadGraphic(hscriptPath + 'dmbg.png');
+    bg.scrollFactor.set(0.9, 0.9);
+    bg.antialiasing = true;
+    addSprite(bg, BEHIND_ALL);
+    setDefaultZoom(0.8);
+	
+	boyfriend.x = 900;
+	boyfriend.y -= 112.55;
+    getHaxeActor('bf').followCamX -= 100;
+	dad.x -= 40.3;
+	dad.y -= 64.2;
+}
+
+function beatHit(beat)
+{	
+	FlxG.camera.zoom -= 0.015;
+	camHUD.zoom -= 0.03;
+}
+
+function update(elapsed)
+{
+}
+
+function stepHit(step)
+{
+	if(camHUD.x > 0){
+		camHUD.x -= 5;
+	}
+	if(camHUD.x < 0){
+		camHUD.x += 5;
+	}
+	if(camHUD.angle > 0){
+		camHUD.angle -= 5;
+	}
+	if(camHUD.angle < 0){
+		camHUD.angle += 5;
+	}
+}
+
+function playerTwoTurn()
+{
+}
+
+function playerTwoMiss()
+{
+}
+
+function playerTwoSing()
+{
+	if(camHUD.x < 100){
+		camHUD.x += 5;
+	}
+	if(camHUD.angle > -30){
+		camHUD.angle -= 5;
+	}
+	FlxG.camera.zoom -= 0.445;
+	camHUD.zoom -= 0.115;
+	camHUD.shake(0.05, 0.05);
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+	if(camHUD.x > -100){
+		camHUD.x -= 5;
+	}
+	if(camHUD.angle < 30){
+		camHUD.angle += 5;
+	}
+	FlxG.camera.zoom -= 0.445;
+	camHUD.zoom -= 0.115;
+	camHUD.shake(0.05, 0.05);
+}
+

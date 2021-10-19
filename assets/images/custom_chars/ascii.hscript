@@ -10,6 +10,7 @@ function init(char) {
     char.animation.addByPrefix('singLEFT','ascii left', 24, false);
     char.animation.addByPrefix('singRIGHT', 'ascii right', 24, false);
     char.animation.addByPrefix('singDOWN', 'ascii down', 24, false);
+    char.animation.addByPrefix('asciiCRASH', 'ascii crash', 24, false);
     trace("finish anim");
 
     char.addOffset('idle', 0);
@@ -17,6 +18,7 @@ function init(char) {
 	char.addOffset("singRIGHT", -3, 0);
 	char.addOffset("singLEFT", 65, 20);
 	char.addOffset("singDOWN", -23, -21);
+	char.addOffset("asciiCRASH", -23, -21);
 
     char.playAnim('idle');
 
@@ -39,7 +41,6 @@ function update(elapsed, char) {
 }
 var danced = false;
 function dance(char) {
-    trace(": )");
-    char.playAnim('idle');
+	char.playAnim('idle');
 }
 trace("done");
